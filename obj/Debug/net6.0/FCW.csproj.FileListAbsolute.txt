@@ -1,0 +1,15 @@
+C:\Users\Сабина\Desktop\FCW\FCW\bin\Debug\net6.0\FCW.exe
+C:\Users\Сабина\Desktop\FCW\FCW\bin\Debug\net6.0\FCW.deps.json
+C:\Users\Сабина\Desktop\FCW\FCW\bin\Debug\net6.0\FCW.runtimeconfig.json
+C:\Users\Сабина\Desktop\FCW\FCW\bin\Debug\net6.0\FCW.dll
+C:\Users\Сабина\Desktop\FCW\FCW\bin\Debug\net6.0\FCW.pdb
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.csproj.AssemblyReference.cache
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.AssemblyInfoInputs.cache
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.AssemblyInfo.cs
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.csproj.CoreCompileInputs.cache
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.dll
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\refint\FCW.dll
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.pdb
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\FCW.genruntimeconfig.cache
+C:\Users\Сабина\Desktop\FCW\FCW\obj\Debug\net6.0\ref\FCW.dll
